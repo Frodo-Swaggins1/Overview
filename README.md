@@ -3,9 +3,11 @@
 <summary>Robotics Code - The Beginning</summary>
   
 The following programs are for **practice + warming up** before the actual coding for competition begins:
-- [CircleTheCan.c](https://github.com/Frodo-Swaggins1/Robotics-Code/blob/main/CircleTheCan.c)
-- [FigureEight.c](https://github.com/Frodo-Swaggins1/Robotics-Code/blob/main/CircleTheCan.c)
-- [ForwardSerpentine.c](https://github.com/Frodo-Swaggins1/Robotics-Code/blob/main/ForwardSerpentine.c)
+- [TASK | Circle_the_Can.c](https://github.com/Frodo-Swaggins1/-Robotics_Code/blob/main/TASK%20%7C%20Circle_the_Can.c)
+- [TASK | Figure_Eight.c](https://github.com/Frodo-Swaggins1/-Robotics_Code/edit/main/TASK%20%7C%20Figure_Eight.c)
+- [TASK | Forward_Serpentine.c](https://github.com/Frodo-Swaggins1/-Robotics_Code/blob/main/TASK%20%7C%20Forward_Serpentine.c)
+- [TASK | Backwards_Serpentine.c](https://github.com/Frodo-Swaggins1/-Robotics_Code/blob/main/TASK%20%7C%20Backward_Serpentine.c)
+- [TASK | Compiled_Serpentine.c](https://github.com/Frodo-Swaggins1/-Robotics_Code/blob/main/TASK%20%7C%20Compiled_Serpentine.c)
 -------
 </details>
 <details>
