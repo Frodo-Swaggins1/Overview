@@ -14,7 +14,7 @@ The following programs are for **practice + warming up** before the actual codin
 <summary>Robotics Code - Autumn Competition</summary>
 
 The following programs are for the **Autumn Virtual Competition**:
-- _code to come_
+- [TASK | Prelimenary_Code.c](https://github.com/Frodo-Swaggins1/Robotics_Code/blob/main/TASK%20%7C%20Prelimenary_Code.c)
 -------
 </details>
 <details>
