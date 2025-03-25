@@ -21,7 +21,8 @@ The following programs are for the **Autumn Virtual Competition**:
 <summary>Robotics Code - Texas & Oklahoma Regionals</summary>
 
 The following programs are for the **Texas** and **Oklahoma** tournaments:
-- [Robotics_Library.c](https://github.com/Frodo-Swaggins1/Robotics_Code/blob/main/Robotics_Library.c)
+- [LIBRARY | Astolat.h](https://github.com/Frodo-Swaggins1/Robotics_Code/blob/main/LIBRARY%20%7C%20Astolat.h)
+- [COMPETITION | Camelot.c](https://github.com/Frodo-Swaggins1/Robotics_Code/blob/main/COMPETITION%20%7C%20Camelot.c)
 -------
 </details>
 <details>
